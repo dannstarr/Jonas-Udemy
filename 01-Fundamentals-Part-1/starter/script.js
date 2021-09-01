@@ -30,3 +30,4 @@ function fruitProcessor(apples, oranges) {
 }
 
 console.log(fruitProcessor(5, 4));
+console.log(fruitProcessor(1, 3))
